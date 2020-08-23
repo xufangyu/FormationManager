@@ -1,0 +1,10 @@
+﻿{
+  "Id": "FormationManager",
+  "DisplayName": "阵型mod",
+  "Author": "一小毛孩子",
+  "Version": "0.0.3",
+  "ManagerVersion": "0.21.0",
+  "Requirements": [],
+  "AssemblyName": "FormationManager.dll",
+  "EntryMethod": "FormationManager.FormationMod.Load"
+}

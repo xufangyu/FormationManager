@@ -1,0 +1,200 @@
+﻿[
+  {
+    "Name": "sankaizhen",
+    "NameCN": "散开阵",
+    "Positions": [
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "0"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "0"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "0"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "0"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "0"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "0"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "0"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "0"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "0"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "yizizhen",
+	"NameCN": "一字阵",
+    "Positions": [
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "50"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "40"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "50"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "40"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "50"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "40"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "50"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "40"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "50"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "40"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "chongfangzhen",
+    "NameCN": "冲方阵",
+    "Positions": [
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "60"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "-20"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "20"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "-40"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "60"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "-20"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "20"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "-40"
+          }
+        ]
+      },
+      {
+        "Buffs": [
+          {
+            "BuffType": "Atk",
+            "Value": "60"
+          },
+          {
+            "BuffType": "RecieveDamage",
+            "Value": "-20"
+          }
+        ]
+      }
+    ]
+  }
+]
